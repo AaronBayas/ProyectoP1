@@ -194,7 +194,7 @@ Algoritmo Proyecto
 					Segun opcn Hacer
 						"1":
 							Escribir " 1.- Dado un número entero N, calcular e informar al usuario cuántos dígitos tiene dicho número."
-						    LongitudNum()
+						        LongitudNum()
 							Esperar 3 Segundos
 						"2":
 							Escribir " 2.- Dado un número, determine si es capicúa."
@@ -468,7 +468,7 @@ Funcion NumeroParImpar()
     FinSi
 FinFuncion
 
-//6,. Dado un (1) número binario de cuatro (4) dígitos imprimir su bitde paridad. El bitde
+//6.- Dado un (1) número binario de cuatro (4) dígitos imprimir su bitde paridad. El bitde
 //paridad es 1 si el número de bits 1 es impar y 0 en caso contrario.
 //Entrada: numBina (leer) número binario de 4 dígitos
 //Proceso: Si numBina >= 1000, se agrega el valor 8 al decimal y se resta 1000 del numeroBinario.
